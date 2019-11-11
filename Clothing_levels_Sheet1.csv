@@ -1,0 +1,19 @@
+id_,Fashion,clo_from,clo_to
+-1,"Shorts, short-sleeved shirt, Flip flop",0.2,0.36
+0,"Walking shorts, short-sleeved shirt",0.36,0.54
+1,"Knee-length skirt, short-sleeved shirt, panty hose, sandals",0.54,0.57
+2,"Trousers, short-sleeved shirt",0.57,0.61
+3,"Trousers, long-sleeved shirt",0.61,0.67
+4,"Knee-length skirt, long-sleeved shirt, full slip, panty hose",0.67,0.72
+5,"Long-sleeved coveralls, T-shirt",0.72,0.74
+6,"Sweat pants, sweat shirt",0.74,0.89
+7,"Overalls, long-sleeved shirt, T-shirt",0.89,0.96
+8,"Same as above, plus suit jacket",0.96,0.96
+9,"Same as above, plus vest and T-shirt",0.96,0.96
+10,"Long-sleeved pajama top, long pajama trousers, short 3/4 sleeved robe, slippers (no socks)",0.96,1.01
+11,"Trousers, long-sleeved shirt, long-sleeved sweater, T-shirt",1.01,1.04
+12,"Knee-length skirt, long-sleeved shirt, half slip, panty hose, suit jacket",1.04,1.1
+13,"Knee-length skirt, long-sleeved shirt, half slip, panty hose, long-sleeved sweater",1.1,1.1
+14,"Ankle-length skirt, long-sleeved shirt, suit jacket, panty hose",1.1,1.3
+15,"Same as above, plus suit jacket and long underwear bottoms",1.3,1.37
+16,"Insulated coveralls, long-sleeved thermal underwear, long underwear bottoms",1.37,10.5
