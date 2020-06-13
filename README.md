@@ -1,2 +1,2 @@
 # MyOpenDataRepo
-dummy open data for general testing ..
+open data and playarounds for general testing ..
